@@ -2,7 +2,8 @@
 
 Nine separate pages cover JavaScript values and operators, DOM manipulation, events, a four-operation calculator, and an interactive to-do list. The site is written in plain HTML, CSS, and JavaScript.
 
-**Student:** Ramin Smagulov · SE-2529  
+**Student:** Ramin Smagulov · SE-2529
+
 **Live site:** [ramin293.github.io/web_assignment5](https://ramin293.github.io/web_assignment5/)
 
 ## Run locally
